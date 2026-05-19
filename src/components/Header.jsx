@@ -25,7 +25,7 @@ export default function Header({ onSearch }) {
       <div className="header__strip">
         <div className="header__strip-inner container">
           <span className="header__strip-text">
-            ⚡ Get delivery in <strong>10 minutes</strong> — Order now!
+            ⚡ Get delivery in <strong>15 minutes</strong> — Order now!
           </span>
           <span className="header__strip-text">
             📞 Support: 1800-xxx-xxxx
