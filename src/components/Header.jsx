@@ -39,7 +39,7 @@ export default function Header({ onSearch }) {
           <a href="/" className="header__logo" id="logo-link">
             <span className="header__logo-icon">⚡</span>
             <span className="header__logo-text">
-              zet<span className="header__logo-accent">op Sandeep Learning</span>
+              zet<span className="header__logo-accent">op Jenkins</span>
             </span>
           </a>
 
