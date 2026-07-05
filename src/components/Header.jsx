@@ -39,7 +39,7 @@ export default function Header({ onSearch }) {
           <a href="/" className="header__logo" id="logo-link">
             <span className="header__logo-icon">⚡</span>
             <span className="header__logo-text">
-              Ama<span className="header__logo-accent">Zon </span>
+              Zep<span className="header__logo-accent">to </span>
             </span>
           </a>
 
