@@ -28,7 +28,7 @@ export default function Header({ onSearch }) {
             ⚡ Get delivery in <strong>15 minutes</strong> — Order now!
           </span>
           <span className="header__strip-text">
-            📞 Support: 1800-xxx-xxxx
+            📞 Support: 1800-1800-1800
           </span>
         </div>
       </div>
